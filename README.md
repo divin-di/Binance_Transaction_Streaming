@@ -1,5 +1,5 @@
-# Fraud_Detection_Binance_End_2_End
-# Real-Time Fraud Detection Pipeline
+
+# Real-Time Binanace Data Pipeline
 
 ## Overview
 This project streams live Binance transaction data via WebSocket into Kafka, processes it in real time with Spark Structured Streaming, and stores results for fraud analytics.
